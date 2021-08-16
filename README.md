@@ -48,12 +48,15 @@ Mindy. is a non-profit movement empowering the awareness for mental health among
     - Integration of SAWO Labs was something where we struggled at initially, but this proved out very helpful, as all the authentication, including OTPs are navigated through this interface.
     
  ## Host Links and Other Resources
- YouTube Video - https://www.youtube.com/watch?v=qadNBfZ66j4
- HerokuApp hosted Site - https://ancient-citadel-56891.herokuapp.com/
- DevFolio Project Link - https://devfolio.co/submissions/mindy-a-mental-health-platform-fb26
+    - YouTube Video - https://www.youtube.com/watch?v=qadNBfZ66j4
+    - HerokuApp hosted Site - https://ancient-citadel-56891.herokuapp.com/
+    - [Runtime Terror.docx](https://github.com/qw-erty/Hackathon-devfest/files/6992283/Runtime.Terror.docx)
+DevFolio Project Link - https://devfolio.co/submissions/mindy-a-mental-health-platform-fb26
  
  ## Team Members
   - Abhinav Aggrawal
   - Anirudh Sharma
   - Shreya Joshi
   - Swati Gupta
+    
+ *A project by Runtime Terror*
